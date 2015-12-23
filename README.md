@@ -1,4 +1,4 @@
-# QuiltViewLibrary
+# QuiltViewLibrary [![Build Status](https://travis-ci.org/inver/QuiltViewLibrary.svg)](https://travis-ci.org/inver/QuiltViewLibrary)
 
 QuiltView displays **views of different sizes** in a **scrollable grid**.
 
